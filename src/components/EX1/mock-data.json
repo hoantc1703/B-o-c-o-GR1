@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "MSSV":20184233,
+    "fullName": "Phạm Văn A",
+    "dateBirth":"20/11/2000",
+    "email": "abubu@gmail.com"
+    
+  },
+  {
+    "id": 2,
+    "MSSV":20184444,
+    "fullName": "Phạm Văn B",
+    "dateBirth":"20/7/2000",
+    "email": "bnha@gmail.com"
+    
+  }
+ 
+]
